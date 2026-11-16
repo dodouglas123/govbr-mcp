@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "govbr": {
+      "url": "https://mcp.seudominio.com/mcp",
+      "headers": {"Authorization": "Bearer SUA_CHAVE_DE_LEITURA"}
+    }
+  }
+}

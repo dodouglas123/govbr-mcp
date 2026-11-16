@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "govbr": {
+      "command": "docker",
+      "args": [
+        "compose", "--project-directory", "C:/caminho/govbr-mcp",
+        "exec", "-T", "backend", "python", "-m", "govbr", "stdio"
+      ]
+    }
+  }
+}
